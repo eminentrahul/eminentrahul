@@ -100,7 +100,3 @@
 <p align="center"><img align="right" height= "150" src="https://github-readme-streak-stats.herokuapp.com/?user=eminentrahul&theme=tokyonight&layout=compact&show_icons=true" alt="eminentrahul" /></p>
 
 </p>
-
-<br>
-
-![Rahul's github activity graph](https://activity-graph.herokuapp.com/graph/?username=eminentrahul&theme=redical)
