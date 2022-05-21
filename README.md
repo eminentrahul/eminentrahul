@@ -28,5 +28,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eminentrahul&show_icons=true&locale=en&theme=tokyonight" alt="eminentrahul" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eminentrahul&" alt="eminentrahul" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eminentrahul&theme=tokyonight&layout=compact&show_icons=true" alt="eminentrahul" /></p>
 
