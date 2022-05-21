@@ -1,9 +1,12 @@
-<h1 align="center">Hello 👋, I'm Rahul</h1>
+<h1 align="center">Hello there 👋, It's Rahul</h1>
 <h3 align="center">iOS Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eminentrahul&label=Profile%20views&color=0e75b6&style=flat" alt="eminentrahul" /> </p>
-<p align="left"> <a href="https://twitter.com/eminentrahul" target="blank"><img src="https://img.shields.io/twitter/follow/eminent_rahul?style=social" alt="eminentrahul" /></a> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eminentrahul&no-frame=true&column=5&margin-w=15&margin-h=15&theme=onedark" alt="eminentrahul" /></a> </p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=eminentrahul&label=Profile%20views&color=0e75b6&style=flat" alt="eminentrahul" />
+<a href="https://twitter.com/eminentrahul" target="blank"><img src="https://img.shields.io/twitter/follow/eminent_rahul?style=social" alt="eminentrahul" /></a> 
+</p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eminentrahul&no-frame=true&column=5&margin-w=15&margin-h=15&theme=onedark" alt="eminentrahul" /></a> </p>
 
 - 🌱 I’m currently learning **SwiftUI**
 
@@ -89,11 +92,15 @@
   </p>
 <hr align="left" width="50%">
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eminentrahul&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="eminentrahul" /></p>
+<p>
+<p align="center"><img align="center" height= "150" src="https://github-readme-stats.vercel.app/api/top-langs?username=eminentrahul&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="eminentrahul" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eminentrahul&show_icons=true&locale=en&theme=tokyonight" alt="eminentrahul" /></p>
+<p align="center"><img align="left" height= "150" src="https://github-readme-stats.vercel.app/api?username=eminentrahul&show_icons=true&locale=en&theme=tokyonight" alt="eminentrahul" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eminentrahul&theme=tokyonight&layout=compact&show_icons=true" alt="eminentrahul" /></p>
+<p align="center"><img align="right" height= "150" src="https://github-readme-streak-stats.herokuapp.com/?user=eminentrahul&theme=tokyonight&layout=compact&show_icons=true" alt="eminentrahul" /></p>
+
+</p>
+
+<br>
 
 ![Rahul's github activity graph](https://activity-graph.herokuapp.com/graph/?username=eminentrahul&theme=redical)
-
